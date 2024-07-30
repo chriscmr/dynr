@@ -37,7 +37,6 @@ Collate:
     'dynrFuncAddress.R'
     'dynrMi.R'
     'dynrTaste.R'
-    'dynrVersion.R'
     'dataDoc.R'
     'dynrGetDerivs.R'
     'dynrPredict.R'
